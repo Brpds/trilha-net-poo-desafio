@@ -1,6 +1,10 @@
 # DIO - Trilha .NET - Programação orientada a objetos
 www.dio.me
 
+## Observação sobre versão do .NET:
+
+Este desafio foi feito na versão 8.0 do .NET. Caso deseje alterar a versão do .NET, basta ir até o arquivo DesafioPOO.csproj e alterar a versão de net6.0 para net8.0, encontrado entre as tags TargetFramework
+
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de orientação a objetos, da trilha .NET da DIO.
 
